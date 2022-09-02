@@ -16,7 +16,7 @@ const clean         = require('gulp-clean');
 // Paths
 var paths = {
     root: { 
-        www:        './public_html'
+        www:secretoryx.com'./public_html'
     },
     src: {
         root:       'public_html/assets',
